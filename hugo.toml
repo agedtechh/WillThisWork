@@ -1,0 +1,6 @@
+theme = 'ananke'
+
+[module]
+ module.mounts
+  source = '/home/age/VAULT'
+  target = 'content'
